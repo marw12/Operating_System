@@ -3,7 +3,7 @@ A Simulation that uses First in first in first out paging technique to run up to
 
 ### Available commands
 
-help: Displays all commands
+_help_: Displays all commands
 
 quit:Exits the shell with "Bye!"
 
