@@ -1,0 +1,13 @@
+set x 10
+print x
+set k 50
+print k
+set j 60
+print j
+set x 10
+print x
+set k 50
+print k
+set j 60
+print j
+quit

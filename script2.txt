@@ -1,0 +1,8 @@
+set y 20
+print y
+set k 50
+set m 60
+set g 30
+print g
+set l 70
+quit
