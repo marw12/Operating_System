@@ -25,3 +25,11 @@ A Simulation that uses first in first in first out paging technique to run up to
 In order to run the operating system run the following command in your terminal:
 
 `./mykernel`
+
+Note:
+
+-Please don't put space after the value when setting variables. (eg. set canada montreal NOT set canada montreal ).
+
+-When using a test file as standard input please make sure the file ends with the quit command.
+
+-Please do not end scripts with a new line.
