@@ -27,7 +27,7 @@ In order to run the operating system run the following command in your terminal:
 `./mykernel`
 
 
-Note:
+**Note:**
 
 -Please don't put space after the value when setting variables. (eg. set canada montreal NOT set canada montreal ).
 
